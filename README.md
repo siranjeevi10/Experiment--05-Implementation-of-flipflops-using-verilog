@@ -1,4 +1,6 @@
-# Experiment--05-Implementation-of-flipflops-using-verilog
+## NAME: YASEEN.F
+## REGISTER NO:23014215
+# Experiment 05 Implementation of flipflops using verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
@@ -162,8 +164,16 @@ endmodule
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+## SR-FLIP FLOP:
+![image](https://github.com/YASEEN23014215/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149365441/1a2c6c8e-4a1e-47fc-bfce-bfac9b170dbe)
+## JK- FLIP FLOP:
+![image](https://github.com/YASEEN23014215/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149365441/97488dd7-79ec-4ed1-ac69-837f2fc9bd40)
 
+## D-FLIP FLOP:
+![image](https://github.com/YASEEN23014215/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149365441/715246d3-de57-4698-a351-6919157e0680)
 
+## T-FLIP FLOP:
+![image](https://github.com/YASEEN23014215/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149365441/dae980a5-df3b-427b-8454-33f8c0aa9f44)
 
 
 
@@ -172,7 +182,20 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+## SR FLIP FLOP:
+![image](https://github.com/YASEEN23014215/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149365441/c98d3831-4405-4ddf-a054-e2232db65bc9)
 
+
+## JK FLIP FLOP:
+![image](https://github.com/YASEEN23014215/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149365441/5df9ba08-28bf-4f02-981b-a5d0335811ec)
+
+## D FLIP FLOP:
+![image](https://github.com/YASEEN23014215/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149365441/8554c5b1-ce99-43a7-ae69-602ca908a489)
+
+
+## T FLIPFLOP:
+
+![image](https://github.com/YASEEN23014215/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149365441/407b0c63-564d-45b4-af9e-69986e594969)
 
 
 
