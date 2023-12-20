@@ -1,3 +1,6 @@
+## Name: Siranjeevi.S
+## Ref no: 23012822
+
 # Experiment--05-Implementation-of-flipflops-using-verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
@@ -102,37 +105,30 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
-
-
 
 ### PROGRAM 
-/*
-Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+## program for flip flops and verify its truth tabel in quartus using verilog programming
+## SR-flipflops:
+![SR flipflop](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/c48bd719-da91-4149-8b24-aa3ea7b3d538)
 
-
-
-
-
+## JK-flipflops:
+![JK flipflop](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/7cab006c-9cd2-4111-9550-28d9ff391bc5)
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+## SR-flipflops:
+![SR rtl](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/d19f37e0-2e87-4dd0-9b19-b01d9f769828)
 
-
-
-
-
-
-
+## JK-flipflops:
+![jk rtl](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/d2564946-9b3c-475a-928d-76fa025ffb67)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+## SR-flipflops:
+![sr timing](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/d64ba8d1-6179-4a24-bc05-3c36e6d82793)
 
-
-
+## JK-flipflops:
+![jk timi](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/56568836-1bbb-4223-a729-a9909f7c6f6a)
 
 
 
