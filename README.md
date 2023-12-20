@@ -102,9 +102,7 @@ Inputs	Present State	Next State
 
 From the above characteristic table, we can directly write the next state equation as
 Q(t+1)=T′Q(t)+TQ(t)′
-⇒Q(t+1)=T⊕Q(t)
-
-### Procedure
+⇒Q(t+1)=T⊕Q(t)/### Procedure
 
 ### PROGRAM 
 ## program for flip flops and verify its truth tabel in quartus using verilog programming
@@ -130,7 +128,5 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ## JK-flipflops:
 ![jk timi](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/56568836-1bbb-4223-a729-a9909f7c6f6a)
 
-
-
-
 ### RESULTS 
+By this we have verified the truth tabel of JK and SR Using verilog
