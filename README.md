@@ -112,6 +112,12 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ## JK-flipflops:
 ![JK flipflop](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/7cab006c-9cd2-4111-9550-28d9ff391bc5)
 
+## T-flipflop:
+c![Screenshot 2023-12-21 200036](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/22034994-b0b5-4f3a-939b-580b193de3e9)
+
+## D-flipflops:
+![Screenshot 2023-12-21 200106](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/1737fcbf-0285-4b7e-846f-9fdad20590d4)
+
 ### RTL LOGIC FOR FLIPFLOPS 
 
 ## SR-flipflops:
@@ -120,6 +126,13 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ## JK-flipflops:
 ![jk rtl](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/d2564946-9b3c-475a-928d-76fa025ffb67)
 
+## T-flipflop:
+![Screenshot 2023-12-21 200128](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/3a3ae138-c4d4-4fa3-9077-cb15c219d895)
+
+## D-flipflop:
+![Screenshot 2023-12-21 200137](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/1c84f911-d18b-410b-9557-62ed848c1352)
+
+
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 ## SR-flipflops:
@@ -127,6 +140,11 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 ## JK-flipflops:
 ![jk timi](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/56568836-1bbb-4223-a729-a9909f7c6f6a)
+
+## T-flipflop:
+![Screenshot 2023-12-21 200153](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/bbbcb573-d341-4605-bfe0-61cbb4740aab)
+## D-flipflop:
+![Screenshot 2023-12-21 200214](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/3ff0072f-98ab-4258-84d4-d07592d6b4b2)
 
 ### RESULTS 
 By this we have verified the truth tabel of JK and SR Using verilog
