@@ -203,3 +203,4 @@ endmodule
 
 
 ### RESULTS 
+By this we have verified the truth table of JK flip flop and SR flip flop using verilog
