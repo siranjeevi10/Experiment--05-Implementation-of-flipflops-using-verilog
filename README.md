@@ -147,4 +147,4 @@ c![Screenshot 2023-12-21 200036](https://github.com/siranjeevi10/Experiment--05-
 ![Screenshot 2023-12-21 200214](https://github.com/siranjeevi10/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152168132/3ff0072f-98ab-4258-84d4-d07592d6b4b2)
 
 ### RESULTS 
-By this we have verified the truth tabel of JK and SR Using verilog
+By this we have verified the truth tabel of JK flipflop, SR flipfliop, D flipflop and T flipflop Using verilog
